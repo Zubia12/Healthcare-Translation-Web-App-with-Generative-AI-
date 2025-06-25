@@ -24,4 +24,4 @@ A simple and powerful web app that helps healthcare professionals talk with pati
 🔗 Live Demo: Click to open the app
 💡 Tip: Use Chrome or Edge for best voice features!
 
-LIVE URL: https://dulcet-selkie-748958.netlify.app/ 
+LIVE URL: https://funny-bavarois-be3d19.netlify.app/ 
